@@ -1,2 +1,4 @@
-# HTML_Webmap_pages
-Used for embedded html map elements in my personal website, in addition to other areas they may be required.
+# Information for Repository
+Folders designate individual projects and some materials related to each project.
+
+Html pages links exsit within each folder to be used in websites.
